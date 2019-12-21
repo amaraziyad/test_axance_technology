@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Harry Potter",
+    "author": "J.K. Rowling",
+    "isbn": 46578964513
+  },
+  {
+    "title": "Around the world in 80 days",
+    "author": "Jules Verne",
+    "isbn":  3326456467846
+  },
+  {
+    "title": "Catch 22",
+    "author": "Joseph Heller",
+    "isbn": 968787565445
+  },
+  {
+    "title": "La peau de chagrin",
+    "author": "Balzac",
+    "isbn": 465789453149
+  }
+]
